@@ -1,0 +1,12 @@
+{
+  "HomePage": {
+    "title": "Hello world",
+    "description": "This page uses next-intl with no locale prefix in the URL."
+  },
+  "LocaleSwitcher": {
+    "label": "Language",
+    "en": "English",
+    "uk": "Ukrainian",
+    "pl": "Polish"
+  }
+}

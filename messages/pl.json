@@ -1,0 +1,12 @@
+{
+  "HomePage": {
+    "title": "Witaj świecie",
+    "description": "Ta strona używa next-intl bez prefiksu locale w URL."
+  },
+  "LocaleSwitcher": {
+    "label": "Język",
+    "en": "Angielski",
+    "uk": "Ukraiński",
+    "pl": "Polski"
+  }
+}
